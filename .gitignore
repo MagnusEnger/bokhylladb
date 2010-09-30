@@ -1,2 +1,2 @@
 # Ignore the downloaded files from Bokhylla
-files/*
+files/*.txt
